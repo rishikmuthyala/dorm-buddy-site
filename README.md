@@ -65,7 +65,7 @@ Ever knocked on your roommate's door only to find them sleeping? Or wondered if 
 
 Built by four UMass engineers in 36 hours:
 
-**Rishik Muthyala**
+**[Rishik Muthyala](https://github.com/rishikmuthyala)**
 
 **[@AbhiK1212](https://github.com/AbhiK1212)** 
 
