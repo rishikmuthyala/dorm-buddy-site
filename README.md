@@ -49,9 +49,9 @@ Ever knocked on your roommate's door only to find them sleeping? Or wondered if 
 
 💻 [Frontend (Next.js)](https://github.com/AbhiK1212/dorm-buddy-site)
 
-⚙️ [Backend (Node/Express)](https://github.com/AbhiK1212/dorm-buddy-backend)
+⚙️ [Backend (Node/Express)](https://github.com/rishikmuthyala/dorm-buddy-backend)
 
-🔌 [Hardware (Arduino)](https://github.com/AbhiK1212/dorm-buddy-arduino)
+🔌 [Hardware (Arduino)](https://github.com/rishikmuthyala/dorm-buddy-arduino)
 
 ## 🧠 What I Learned
 
@@ -65,13 +65,13 @@ Ever knocked on your roommate's door only to find them sleeping? Or wondered if 
 
 Built by four UMass engineers in 36 hours:
 
-**Rishik Muthyala** - Lead Arduino integration, backend API, system architecture
+**Rishik Muthyala**
 
-**[@AbhiK1212](https://github.com/AbhiK1212)** - Next.js frontend, WebSocket implementation
+**[@AbhiK1212](https://github.com/AbhiK1212)** 
 
-**[@romanobro56](https://github.com/romanobro56)** - Backend infrastructure, JWT auth, DevOps
+**[@romanobro56](https://github.com/romanobro56)** 
 
-**Jaden Borla** - Hardware assembly, sensor calibration, installation
+**Jaden Borla** 
 
 ## 🏆 HackUMass XI - November 2024
 
@@ -81,7 +81,7 @@ Built by four UMass engineers in 36 hours:
 
 **Rishik Muthyala**
 
-🌐 [Portfolio](https://rishikmuthyala.com) | 💼 [LinkedIn](https://linkedin.com/in/rishik-muthyala) | 📧 rishik@example.com
+🌐 [Portfolio](https://rishikmuthyala.xyz) | 💼 [LinkedIn](https://linkedin.com/in/rishik-muthyala) | 📧 rishikmuthyala05@gmail.com
 
 Currently: AI Engineer @ Handshake AI | CS + Math @ UMass Amherst | Building EducatEd.AI
 
