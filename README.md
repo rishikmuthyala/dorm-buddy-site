@@ -83,8 +83,6 @@ Built by four UMass engineers in 36 hours:
 
 🌐 [Portfolio](https://rishikmuthyala.xyz) | 💼 [LinkedIn](https://linkedin.com/in/rishik-muthyala) | 📧 rishikmuthyala05@gmail.com
 
-Currently: AI Engineer @ Handshake AI | CS + Math @ UMass Amherst | Building EducatEd.AI
-
 ## 📝 License
 
 MIT License - Free to use for your own IoT projects!
