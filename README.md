@@ -32,10 +32,9 @@ Ever knocked on your roommate's door only to find them sleeping? Or wondered if 
 **Infrastructure:** Docker, Railway, MongoDB Atlas
 
 ## 📸 Hardware Setup
+![image1](https://github.com/user-attachments/assets/b694355d-4ed7-4abb-8a4c-76d4f7f3485e)
 
-![Arduino IoT Hub](path/to/image1.png)
-
-![System in Action](path/to/image2.png)
+![System in Action](path/to/image2.jpg)
 
 ## 🚀 Key Technical Achievements
 
