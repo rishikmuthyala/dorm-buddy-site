@@ -32,9 +32,8 @@ Ever knocked on your roommate's door only to find them sleeping? Or wondered if 
 **Infrastructure:** Docker, Railway, MongoDB Atlas
 
 ## 📸 Hardware Setup
-![image1](https://github.com/user-attachments/assets/b694355d-4ed7-4abb-8a4c-76d4f7f3485e)
+<img width="375" height="244" alt="Screenshot 2026-01-12 at 8 10 50 AM" src="https://github.com/user-attachments/assets/060d2753-3db0-47ad-915c-8e3ad212d32e" />
 
-![System in Action](path/to/image2.jpg)
 
 ## 🚀 Key Technical Achievements
 
