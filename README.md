@@ -33,7 +33,7 @@ DormBuddy is an IoT-powered dorm hub built at HackUMass XI. It combines **Arduin
 ## 👥 Authors
 - [@romanobro56](https://www.github.com/romanobro56)  
 - [@AbhiK1212](https://github.com/AbhiK1212)  
-- Rishik Muthyala  
+- [@rishikmuthyala](https://github.com/rishikmuthyala)
 - Jaden Borla  
 
 ---
